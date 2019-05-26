@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chaosangie.github.io</id>
+    <id>https://viktor.github.io</id>
     <title>Viktor</title>
-    <updated>2019-05-26T05:26:31.045Z</updated>
+    <updated>2019-05-26T05:29:53.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chaosangie.github.io"/>
-    <link rel="self" href="https://chaosangie.github.io/atom.xml"/>
+    <link rel="alternate" href="https://viktor.github.io"/>
+    <link rel="self" href="https://viktor.github.io/atom.xml"/>
     <subtitle>万丈高楼平地起，勿在浮沙筑高台！</subtitle>
-    <logo>https://chaosangie.github.io/images/avatar.png</logo>
-    <icon>https://chaosangie.github.io/favicon.ico</icon>
+    <logo>https://viktor.github.io/images/avatar.png</logo>
+    <icon>https://viktor.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Viktor</rights>
 </feed>
